@@ -1,2 +1,2 @@
-{ "user": "samsung----SM-T515"}
+{ "user": "samsung----SM-A217F"}
 
