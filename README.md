@@ -1,3 +1,3 @@
 
-{ "user": "y"}
+{ "user": "samsung----SM-A217F"}
 
